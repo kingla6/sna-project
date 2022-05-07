@@ -1,4 +1,5 @@
-# Social Network Analysis Final Project: H&M Personalized Fashion Recommendations
+# Social Network Analysis Final Project: 
+# H&M Personalized Fashion Recommendations
 Repo for Social Network Analysis final project. Please see repo directory to navigate to specific parts of the project.
 
 Work conducted by Connor Mignone, Logan King, Ty Painter.
